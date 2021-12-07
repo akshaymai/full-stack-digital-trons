@@ -4,6 +4,7 @@
 npm run data:import
 or
 throught postman :
+
 # end point: localhost:5000/create/slot(for create)
 # body 
 {
